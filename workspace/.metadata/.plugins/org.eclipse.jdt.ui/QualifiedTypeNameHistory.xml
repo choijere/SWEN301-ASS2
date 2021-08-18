@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="java.util.logging.Logger"/>
+    <fullyQualifiedTypeName name="org.apache.log4j.AppenderSkeleton"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="com.google.gson.JsonObject"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+    <fullyQualifiedTypeName name="nz.ac.wgtn.swen301.assignment2.MemAppender"/>
+    <fullyQualifiedTypeName name="java.util.Timer"/>
+    <fullyQualifiedTypeName name="org.apache.log4j.BasicConfigurator"/>
+    <fullyQualifiedTypeName name="java.nio.charset.Charset"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.logging.Level"/>
+    <fullyQualifiedTypeName name="org.apache.log4j.Level"/>
+    <fullyQualifiedTypeName name="org.apache.log4j.Priority"/>
+    <fullyQualifiedTypeName name="org.apache.log4j.spi.LoggingEvent"/>
+    <fullyQualifiedTypeName name="java.util.TimerTask"/>
+    <fullyQualifiedTypeName name="java.lang.management.ManagementFactory"/>
+    <fullyQualifiedTypeName name="javax.management.ObjectName"/>
+    <fullyQualifiedTypeName name="javax.management.MBeanServer"/>
+    <fullyQualifiedTypeName name="javax.management.MalformedObjectNameException"/>
+    <fullyQualifiedTypeName name="javax.management.NotCompliantMBeanException"/>
+    <fullyQualifiedTypeName name="javax.management.MBeanRegistrationException"/>
+    <fullyQualifiedTypeName name="javax.management.InstanceAlreadyExistsException"/>
+    <fullyQualifiedTypeName name="javax.management.DynamicMBean"/>
+    <fullyQualifiedTypeName name="nz.ac.wgtn.swen301.assignment2.AppenderMonitor"/>
+</qualifiedTypeNameHistroy>
